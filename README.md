@@ -25,7 +25,7 @@ This lab simulates a real-world phishing attack using command-line tools and dem
   Implemented to manage user accounts, groups, and organizational units (OUs). Used for hands-on experience with authentication flows, access control, privilege escalation testing, and administrative scripting.
 
 - **`Web Browser:`**  
- Used by the simulated victim to visit the cloned phishing website and enter login credentials.
+ Used by the simulated target to visit the cloned phishing website and enter login credentials.
   
 - **`Local Network (LAN):`**  
   The phishing server is hosted on a local IP (e.g., 192.168.x.x) that is accessed by the simulated victim machine via a browser.
@@ -88,7 +88,7 @@ ifconfig eth0
 
 7. When asked Press (return) if you understand what we're saying here, press Enter.
 
-## STEP 3 : TRACKING / HUNTING Victims
+## STEP 3 : TRACKING / HUNTING Targets
 
 Open the browser window and access the Google accounts with the IP address found earlier from `STEP 2`. Sign in with an email and password that was created. Restore the second Terminal window and verify that the entered email and password visible on the screen
 
