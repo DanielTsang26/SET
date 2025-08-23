@@ -115,8 +115,8 @@ Open the browser window and access the Google accounts with the IP address found
 
 ### 🔑 Key Takeaways
 
-- 🧠 **Social engineering targets human vulnerabilities** rather than technical flaws.
-- 🛠️ The **Social-Engineer Toolkit (SET)** allows for realistic simulation of phishing sites.
-- 📥 **Credential harvesting through cloned sites** shows how easily users can be deceived.
-- 🛡️ **Defensive strategies** such as user education, browser security, and network monitoring are critical to mitigating these types of attacks.
+-  **Social engineering targets human vulnerabilities** rather than technical flaws.
+-  The **Social-Engineer Toolkit (SET)** allows for realistic simulation of phishing sites.
+-  **Credential harvesting through cloned sites** shows how easily users can be deceived.
+-  **Defensive strategies** such as user education, browser security, and network monitoring are critical to mitigating these types of attacks.
 
